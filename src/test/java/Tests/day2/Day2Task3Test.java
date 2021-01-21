@@ -1,6 +1,7 @@
 //package Tests.day2;
 //
 //import Tests.AbstractTest;
+//import day2.Task2;
 //import day2.Task3;
 //import org.junit.jupiter.api.Test;
 //
@@ -28,6 +29,13 @@
 //        setInput("5 50");
 //        Task3.main(new String[0]);
 //        assertEquals("15 25 35 45 ", getOutput(), "a = 5, b = 50");
+//    }
+//
+//    @Test
+//    public void five_fortyFive() {
+//        setInput("5 45");
+//        Task2.main(new String[0]);
+//        assertEquals("15 25 35 ", getOutput(), "a = 5, b = 45");
 //    }
 //
 //    @Test
