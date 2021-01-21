@@ -31,6 +31,13 @@
 //    }
 //
 //    @Test
+//    public void five_fortyFive() {
+//        setInput("5 45");
+//        Task2.main(new String[0]);
+//        assertEquals("15 25 35 ", getOutput(), "a = 5, b = 45");
+//    }
+//
+//    @Test
 //    public void incorrectInput() {
 //        setInput("50 5");
 //        Task2.main(new String[0]);
