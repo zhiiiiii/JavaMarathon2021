@@ -25,7 +25,6 @@ public class Task3 {
                 sumMaxIndex = i;
             }
         }
-
         System.out.println(sumMaxIndex);
     }
 }

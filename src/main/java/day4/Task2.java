@@ -31,6 +31,5 @@ public class Task2 {
         System.out.println(min);
         System.out.println(zeroCount++);
         System.out.println(sum);
-
     }
 }
